@@ -1,0 +1,11 @@
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\Administracion.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\Administracion.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\EntidadesCompartidas.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\Logica.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\Persistencia.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\EntidadesCompartidas.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\Logica.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\bin\Persistencia.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\obj\Release\Administracion.csprojResolveAssemblyReference.cache
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\obj\Release\Administracion.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Administracion\obj\Release\Administracion.pdb

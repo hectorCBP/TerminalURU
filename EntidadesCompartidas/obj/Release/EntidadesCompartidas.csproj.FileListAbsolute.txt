@@ -1,0 +1,4 @@
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\EntidadesCompartidas\bin\Release\EntidadesCompartidas.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\EntidadesCompartidas\bin\Release\EntidadesCompartidas.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\EntidadesCompartidas\obj\Release\EntidadesCompartidas.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\EntidadesCompartidas\obj\Release\EntidadesCompartidas.pdb

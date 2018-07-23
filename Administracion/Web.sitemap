@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap >
+  <siteMapNode title="MENÚ" description="Menú principal" url="">
+    <siteMapNode title="Viajes Internacionales" description="Mantenimiento viajes internacionales" url="~/AbmInternacionales.aspx" />
+    <siteMapNode title="Viajes Nacionales" description="Mantenimiento viajes nacionales" url="~/AbmNacionales.aspx"/>   
+    <siteMapNode title="Empleados" description="Mantenimiento empleados" url="~/AbmEmpleados.aspx" />
+    <siteMapNode title="Companías" description="Mantenimiento companías" url="~/AbmCompanias.aspx" />
+    <siteMapNode title="Terminales" description="Mantenimiento terminales" url="~/AbmTerminales.aspx" />
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MPAdministracion.master.cs" Inherits="Administracion.MPAdministracion" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="margin: 0 auto;" width="50%">
+            <tr>
+                <td width="20%">
+                    <asp:Menu ID="MenuPrincipal" runat="server" DataSourceID="SiteMapDataSource" 
+                        DisappearAfter="5000">
+                    </asp:Menu>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource" runat="server" />
+                </td>
+                <td align="right" width="40%">
+                    &nbsp;</td>
+                <td align="right" width="40%">
+                    <asp:LinkButton ID="lnkLogout" runat="server" onclick="lnkLogout_Click">Cerrar Sesión</asp:LinkButton>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="2">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

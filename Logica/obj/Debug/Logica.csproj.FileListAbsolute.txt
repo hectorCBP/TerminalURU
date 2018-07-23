@@ -1,0 +1,36 @@
+C:\Users\sistemas\Desktop\TerminalUru\Logica\bin\Debug\Logica.dll
+C:\Users\sistemas\Desktop\TerminalUru\Logica\bin\Debug\Logica.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\TerminalUru\Logica\bin\Debug\Persistencia.dll
+C:\Users\sistemas\Desktop\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Logica\bin\Debug\Persistencia.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\TerminalUru\Logica\obj\Debug\Logica.dll
+C:\Users\sistemas\Desktop\TerminalUru\Logica\obj\Debug\Logica.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Logica.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Logica.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Persistencia.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Persistencia.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Debug\Logica.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Debug\Logica.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Logica.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Logica.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Persistencia.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Debug\Persistencia.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Debug\Logica.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Debug\Logica.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\bin\Debug\Logica.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\bin\Debug\Logica.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\bin\Debug\Persistencia.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\obj\Debug\Logica.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Logica\obj\Debug\Logica.pdb

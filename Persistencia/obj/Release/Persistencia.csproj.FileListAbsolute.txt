@@ -1,0 +1,7 @@
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Persistencia\bin\Release\Persistencia.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Persistencia\bin\Release\Persistencia.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Persistencia\bin\Release\EntidadesCompartidas.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Persistencia\bin\Release\EntidadesCompartidas.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Persistencia\obj\Release\Persistencia.csprojResolveAssemblyReference.cache
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Persistencia\obj\Release\Persistencia.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Persistencia\obj\Release\Persistencia.pdb

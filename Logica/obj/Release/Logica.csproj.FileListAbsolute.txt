@@ -1,0 +1,9 @@
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Release\Logica.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Release\Logica.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Release\EntidadesCompartidas.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Release\Persistencia.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Release\EntidadesCompartidas.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\bin\Release\Persistencia.pdb
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Release\Logica.dll
+I:\BIOS 2018\Obligatorio 2018\TerminalUru\Logica\obj\Release\Logica.pdb

@@ -1,0 +1,33 @@
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\Consultas.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\Consultas.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\EntidadesCompartidas.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\Logica.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\Persistencia.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\EntidadesCompartidas.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\Logica.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\bin\Persistencia.pdb
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\obj\Debug\Consultas.csprojResolveAssemblyReference.cache
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\obj\Debug\Consultas.dll
+D:\BIOS 2018\Obligatorio 2018\TerminalUru\Consultas\obj\Debug\Consultas.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\Consultas.dll
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\Consultas.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\EntidadesCompartidas.dll
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\Logica.dll
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\Persistencia.dll
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\EntidadesCompartidas.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\Logica.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\bin\Persistencia.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\obj\Debug\Consultas.dll
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\obj\Debug\Consultas.pdb
+C:\Users\sistemas\Desktop\TerminalUru\Consultas\obj\Debug\Consultas.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\Consultas.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\Consultas.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\EntidadesCompartidas.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\Logica.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\Persistencia.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\EntidadesCompartidas.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\Logica.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\bin\Persistencia.pdb
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\obj\Debug\Consultas.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\obj\Debug\Consultas.dll
+C:\Users\Hector\Desktop\Obligatorio Bios 2018\Codigo y base de datos\TerminalUru\Consultas\obj\Debug\Consultas.pdb
